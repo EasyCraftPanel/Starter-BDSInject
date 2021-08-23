@@ -187,7 +187,7 @@ namespace EasyCraftStarter
             return false;
         }
 
-        public static bool ServerStart(dynamic Server, string program, string argument)
+        public static bool ServerStart(dynamic Server, string program, string argument, dynamic _, dynamic __)
         {
             try
             {
